@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @urztracy
+- 👋 Hi, I’m Tadi
 - 👀 I’m interested in becoming a Software Engineer
 - 🌱 I’m currently learning Front End Development
 
